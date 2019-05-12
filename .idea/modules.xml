@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/threaad2/threaad2.iml" filepath="$PROJECT_DIR$/threaad2/threaad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-learn.iml" filepath="$PROJECT_DIR$/thread-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread1/thread1.iml" filepath="$PROJECT_DIR$/thread1/thread1.iml" />
+    </modules>
+  </component>
+</project>
