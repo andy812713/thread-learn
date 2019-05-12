@@ -12,7 +12,7 @@
 
 每一个链先将请求存放到threadLocal中，然后用多线程的方式；即便第一个请求过来，第二个链阻塞造成第一个链阻塞，那也仅仅影响到第一个请求；服务还是可以继续接受到第二个请求。
 
-![同步&多线程异步](D:\GP_HOMEWORK2019\thread-learn\thread1\image\同步&多线程异步.JPG)
+![同步&多线程异步](https://github.com/andy812713/thread-learn/blob/master/thread1/image/%E5%90%8C%E6%AD%A5%26%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%BC%82%E6%AD%A5.JPG)
 
 
 
